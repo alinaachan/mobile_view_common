@@ -16,14 +16,17 @@ nav {
 nav > li {
     display: block;
     margin-bottom: 10px;
+    list-style-type: none;
 }
 nav a {
     font-size: 20px;
     text-align: center;
 }
+ul {
+    padding-left: 10px;
+}
 li {
     margin: 10px;
-
 }
 img {
     border: 5px solid #fb9aaa;
@@ -48,6 +51,7 @@ h2 {
     font-size: 40px;
     font-family:Georgia, 'Times New Roman', Times, serif;
     color:rgb(88, 104, 223);
+    margin-top: 50px;
 }
 h3 {
     margin-top: 15px;
@@ -57,7 +61,6 @@ h3 {
 } 
 div {
     margin-top: 10px;
-    margin-bottom: 50px;
 }
 p {
     margin-top: 10px;
